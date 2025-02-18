@@ -1,4 +1,6 @@
 body{
     margin: 0%;
-    background:linear-gradient(310deg,#F4FAFF,#31081F);
+    padding: 0%;
+    /* background:linear-gradient(310deg,#F4FAFF,#31081F); */
+    background-color: #334E58;
 }

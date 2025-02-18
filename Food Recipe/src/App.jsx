@@ -1,5 +1,5 @@
 import { useState } from "react"
-import Search from "./components/search"
+import Search from "../src/components/Search"
 import Foodlist from "./components/Foodlist"
 import Navbar from "./components/navBar"
 import Container from "./components/Container"
